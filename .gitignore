@@ -54,6 +54,10 @@ typings/
 # dotenv environment variable files
 .env*
 
+# env development
+.env.development
+.env.pruduction
+
 # gatsby files
 .cache/
 public
